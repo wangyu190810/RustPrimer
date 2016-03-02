@@ -89,7 +89,7 @@ The Rust primer for beginners.
   1. 操作系统与文件处理
   2. 时间日期处理
   3. 网络编程
-34. 实战篇
+34. 实战篇 [wangyu190810]
   1. 实战：Json处理
   2. 实战：Web 应用开发入门
   3. 实战：使用Postgresql数据库
